@@ -2,8 +2,9 @@
 
 Pre-built binaries for the VibeChain testnet, by platform.
 
-> ⚠️  This is the **testnet**, not mainnet. Mainnet launches
-> **2026-05-11 20:00 EDT** (00:00 UTC 2026-05-12). Testnet
+> ⚠️  This is the **testnet**, not mainnet. Mainnet is targeted for
+> **2026-11-07**, after the current 14-day testnet soak completes;
+> the exact launch time will be announced here. Testnet
 > participants should expect coordinated chain resets if a
 > consensus issue is discovered before launch.
 
